@@ -12,6 +12,9 @@
  */
 class testPHPClass {
     //put your code here
+    function f1(){
+        
+    }
 }
 
 ?>
